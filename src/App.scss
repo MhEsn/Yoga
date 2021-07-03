@@ -1,0 +1,16 @@
+@import "./assets/scss/home.scss";
+@import "./assets/scss/nav.scss";
+@import "./assets/scss/slider.scss";
+@import "./assets/scss/footer.scss";
+@import "./assets/scss/button.scss";
+
+.App {
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    margin: 0px;
+    // min-height: 100vh;
+    width: 100%;
+    // background-image: linear-gradient(to right, #6666ff, #d966ff);
+    // background-color: #e6ccff;
+}   

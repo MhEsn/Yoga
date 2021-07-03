@@ -1,0 +1,26 @@
+// @font-face {
+//   font-family: "iransans";
+//   src: local("iransans"), url(./assets/fonts/iransans.ttf) format("ttf");
+// }
+@font-face {
+  font-family: "IRAN Sans";
+  src: url("//db.onlinewebfonts.com/t/0b0a8c345731751b990403a2cf40fbec.eot");
+  src: url("//db.onlinewebfonts.com/t/0b0a8c345731751b990403a2cf40fbec.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/0b0a8c345731751b990403a2cf40fbec.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/0b0a8c345731751b990403a2cf40fbec.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/0b0a8c345731751b990403a2cf40fbec.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/0b0a8c345731751b990403a2cf40fbec.svg#IRAN Sans") format("svg");
+}
+
+body {
+  margin: 0;
+  font-family: "IRAN Sans", sans-serif;
+  font-size: 1.2em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  // font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  //   monospace;
+}

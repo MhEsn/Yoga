@@ -1,0 +1,18 @@
+.read-more-btn {
+    font-family: "IRAN Sans";
+    height: 40px;
+    width: 100px;
+    color: #5e60ce;
+    background-color: white;
+    border: 1px solid #5e60ce;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: 0.3s;
+    font-weight: 800;
+    font-size: 0.9em;
+
+    &:hover {
+        background-color: #5e60ce;
+        color:white;
+    }
+}
