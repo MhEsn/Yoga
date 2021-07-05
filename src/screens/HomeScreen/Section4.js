@@ -4,9 +4,9 @@ import { faInstagram, faTelegram, faYoutube, faTwitter } from '@fortawesome/free
 
 function Section4() {
     return (
-        <div className="contact-section-container">
+        <div className="contact-section-container" id="aboutus">
             <div className="left-section">
-                <img src="images/chakrapol.jpeg" alt="stone" />
+                <img src="images/between2trees.jpeg" alt="stone" />
             </div>
             <div className="right-section">
                 <span>راه های ارتباطی</span>

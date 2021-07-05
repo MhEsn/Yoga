@@ -3,6 +3,7 @@ import Section1 from '../HomeScreen/Section1';
 import Section2 from '../HomeScreen/Section2';
 import Section3 from '../HomeScreen/Section3';
 import Section4 from '../HomeScreen/Section4';
+import Section21 from '../HomeScreen/Section2.1';
 
 function Home() {
     return (
@@ -12,6 +13,9 @@ function Home() {
             </div>
             <div className="about-me-info-section">
                 <Section2 />
+            </div>
+            <div className="banner-section">  
+                <Section21 />
             </div>
             <div className="cards-section">
                 <Section3 />
