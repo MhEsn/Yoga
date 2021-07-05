@@ -13,6 +13,12 @@
 
     &:hover {
         background-color: #5e60ce;
-        color:white;
+        color: white;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .read-more-btn {
+        width: 100% !important;
     }
 }
